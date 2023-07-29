@@ -1,0 +1,35 @@
+.image{
+    width: 400px;
+    height: 500px;
+}
+.login{
+    display: flex;
+   
+    margin-left: 20%;
+    margin-bottom: 5%;
+    margin-top: 2%;
+   
+}
+
+.login1{
+    margin-left: 15%;
+    border: 3px solid blue;
+    padding: 2%;
+    box-shadow: 12px 12px 2px 1px rgba(0, 0, 255, .2);
+    border-radius: 5px;
+}
+.login1:hover{
+    box-shadow: 3px 3px rgb(235, 207, 224), -1em 0 .4em rgb(199, 160, 88);
+
+}
+.login1 p{
+    color: black;
+}
+h2{
+    color: rgb(27, 78, 78);
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+.Reset{
+    margin-top: 5%;
+}

@@ -1,0 +1,34 @@
+.timer_count{
+    display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  min-height: 50vh;
+  background-image: url(https://media.istockphoto.com/id/1250152532/photo/online-shopping-and-digital-marketing-concept-woman-using-digital-tablet-with-shopping-cart.jpg?s=612x612&w=0&k=20&c=RiLlRrGvpi0iLTdGS2JSQx95gySojYUWM5EAzz3lCCo=);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: right;
+  background-attachment: fixed;
+  display: flex;
+}
+.buy_btn{
+  font-size: 2rem;
+  margin-top: 5rem;
+  background: bisque;
+  border-radius: 2rem;
+}
+.buy_btn  Link:hover{
+  text-decoration: none;
+
+
+}
+.section_title{
+  color: aqua;
+}
+.section_titles{
+  color: rgb(238, 247, 244);
+}
+.text_end {
+  border-radius: 10rem;
+
+}

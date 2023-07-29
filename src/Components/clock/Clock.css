@@ -1,0 +1,18 @@
+.clock_wapper{
+    background: transparent;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    color: aliceblue;
+    margin-top: 10%;
+  
+}
+.text_white{
+    color: #fff;
+}
+.clockk{
+    margin-left: 7rem;
+    
+}
+
+

@@ -1,0 +1,45 @@
+.product_item{
+  
+    border: 1px solid rgb(247, 242, 242);
+   
+    margin-bottom: 2rem;
+    padding-bottom: 1rem;
+}
+
+
+.product_item:hover{
+    box-shadow: 10px 5px 5px rgb(172, 170, 170);
+}
+.product_item h3{
+    font-size: 1.2rem;
+    color: black;
+    font-weight: 600;
+    margin-top: 15px;
+
+}
+.link1{
+    padding-left: 5rem;
+    
+}
+.link2{
+background: rgb(214, 178, 214);
+font-size: 1.2rem;
+border-radius: 1rem;
+}
+span{
+    font-size: 0.9rem;
+}
+.price{
+    color: black;
+    font-size: 1.3rem;
+}
+img{
+    width: 100%;
+}
+.Link3{
+ background: rgb(83, 77, 83);
+font-size: 1.2rem;
+border-radius: 1rem;
+padding-bottom: 2rem;
+
+}

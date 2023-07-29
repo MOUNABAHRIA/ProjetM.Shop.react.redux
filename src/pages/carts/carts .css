@@ -1,0 +1,75 @@
+.table tr td img{
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+
+}
+ .Subtotal{
+    border: 1px solid black;
+    background: bisque;
+    border-radius: 5px;
+    width: 35rem;
+  
+    margin-bottom: 10%;
+ }
+ .Subtotal:hover{
+    box-shadow: 3px 3px rgb(235, 207, 224), -1em 0 .4em rgb(199, 160, 88);
+ }
+ .Subtotal p{
+    color: black;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+ .BTN1{
+  margin: 5%;
+   border: 1px solid transparent;
+   width: 30rem;
+   padding: 5%;
+    display: flex;
+    justify-content: space-between;
+   
+ }
+ .bnts{
+  
+    border-radius: 5px;
+    background: rgb(213, 185, 240);
+    color: #fff;
+    border: 1px solid transparent;
+    font-size: 20px;
+    padding: 2%;
+ }
+ .bnt1{
+  
+    border-radius: 5px;
+    background: rgb(231, 162, 200);
+    color: #fff;
+    font-size: 20px;
+    border: 1px solid transparent;
+
+ }
+ .bnt1 :hover{
+   color: #f5f0f0;
+   text-decoration: none;
+ }
+ .bnts :hover{
+   color: #f5f0f0;
+   text-decoration: none;
+ }
+
+ h6{
+    font-size: 30px;
+
+ }
+
+ .timer_count{
+   display: flex;
+ flex-direction: column;
+ align-items: center;
+ width: 100%;
+ min-height: 50vh;
+ background-image: url(https://media.istockphoto.com/id/1250152532/photo/online-shopping-and-digital-marketing-concept-woman-using-digital-tablet-with-shopping-cart.jpg?s=612x612&w=0&k=20&c=RiLlRrGvpi0iLTdGS2JSQx95gySojYUWM5EAzz3lCCo=);
+ background-repeat: no-repeat;
+ background-size: cover;
+ background-position: right;
+ background-attachment: fixed;
+ display: flex;
+}

@@ -1,0 +1,66 @@
+.filter_widget2{
+    padding: 10px 10px;
+    border: 1px solid var(--primary-color) ;
+    cursor: pointer;
+    border-radius: 5px;
+   
+    color: aliceblue; 
+    border-radius: 5%;
+   
+    border-radius: 5%;
+    display: flex;
+  
+}
+.Searcha{
+    padding-left: 6rem;
+}
+.contact p {
+   
+    padding: 40%;
+    padding-left: 0%;
+    height: 50%;
+    margin-right:30%;
+    color: #000;
+    border-radius: 5%;
+    background: #f1e8e8;
+} 
+.shop1{
+    display: flex;
+    padding-top:2% ;
+padding-left: 17%;
+justify-content: space-between;
+font-size: 1.5rem;
+}
+.filter_widget1{
+    border-radius: 5%;
+    background: #ffff;
+    
+    font-size: 1.5rem;
+}
+.d-flexx{
+    background: #faf6f6;
+    display: flex;
+    font-size: 1.5rem;
+}
+.filtereddd{
+    text-align: center;
+    font-size: 1rem;
+    font-style: italic;
+    font-weight: 100;
+    font-family : "Times New Roman", Times, serif;
+    
+} 
+
+.timer_countt{
+    display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  min-height: 70vh;
+  background-image: url(https://www.indy100.com/media-library/the-95-best-online-clothing-stores-in-the-us.png?id=31833781&width=1200&height=600&coordinates=0%2C87%2C0%2C45);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: right;
+  background-attachment: fixed;
+  display: flex;
+}

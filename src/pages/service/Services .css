@@ -1,0 +1,27 @@
+.service_item{
+    align-items: center;
+    column-gap: 0.5rem;
+    border-radius: 5rem;
+    background: #f3e2e2;
+  padding: 5%;
+ 
+
+}
+.service_item1{
+    background: rgb(236, 234, 234);
+    padding: 5%;
+}
+.service p {
+    color: var(--small-text-color);
+    font-size: 1rem;
+}
+
+
+.service{
+    display: flex;
+    justify-content: space-between;
+  padding: 20px;
+  column-gap: 0.2rem;
+ width: 80rem; 
+
+}

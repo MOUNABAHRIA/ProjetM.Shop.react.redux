@@ -1,0 +1,117 @@
+.logoo h2{
+  font-family: "Poppins", sans-serif;
+  color: #f5f0f0;
+  
+ 
+  font-size: 30px;
+  text-transform: capitalize;
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  line-height: 18px;
+}
+
+.shop{
+    color: #eba1a1; 
+    font-size: 35px;
+    margin: 1rem;
+   
+     
+}
+.link { font-size: 23px;
+    font-weight: 300;
+    margin-top: 0px;
+    font-weight: 300;
+    line-height: 1;
+    color: #f5f0f0; 
+    padding: 7%;
+    display: flex;
+  
+   
+
+}
+.link:hover{
+    color: #ffff;
+    text-decoration: none;
+}
+
+
+.bg-body-tertiary{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    text-align: center;
+    color: #ffff;
+    background-color: #8a8989;
+    text-transform: capitalize;
+    font-family: "Poppins", sans-serif;
+    font-weight: 300;
+
+    
+}
+ .navbarr{
+    display: block;
+    padding: 8px 16px;
+    font-size: 15px;
+    text-transform: capitalize;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    line-height: 18px;
+    color:#030303;
+    margin-left: 10%;
+
+}
+
+.navbarr:hover{
+    color: #f5f0f0;
+    text-decoration: none;
+    background: #cc7f7f;
+}
+.na{
+    color: #f5f0f0;
+}
+.cart{
+    color:#f5f0f0; 
+    display: flex;
+padding-top: 1.9rem;
+    margin-left: 100%;
+  
+}
+p{
+    color: #ffff;
+    font-size: 20px;
+}
+.icon{
+    color: #ffff;
+    
+
+}
+
+#basic-nav-dropdown{
+    color: #ffff;
+    font-size: 23px;
+    text-transform: capitalize;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    line-height: 18px;
+    padding: 50%;
+    padding-right: 80%;
+    display: flex;
+}
+.logoo{
+    display: flex;
+   
+
+   
+}
+.logoo:hover{
+    text-decoration: none;
+}
+
+.auto{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 4rem;
+    cursor: pointer;
+
+}
